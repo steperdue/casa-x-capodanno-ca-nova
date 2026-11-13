@@ -1,0 +1,6 @@
+{
+  "name": "Capodanno a Cà Nova — Oltrepò Piacentino",
+  "description": "Guida interattiva per amici alla casa colonica di Cà Nova di Caminata (PC) su Airbnb (#17917859): planimetria 2D, vista 3D Three.js, tour fotografico e calcolatore spese Capodanno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
